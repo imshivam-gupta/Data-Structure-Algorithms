@@ -1,17 +1,20 @@
-# Intuition
+# Method 1
+
+
+## Intuition
 Code as you think that is Brute Force Approach
 
-# Approach
+## Approach
 Perform DFS on each and every node connected through the given node
 
-# Complexity
+## Complexity
 - Time complexity:
 O(N*M)
 
 - Space complexity:
 O(N*M)
 
-# Code
+## Code
 ```cpp
 class Solution {
 public:
